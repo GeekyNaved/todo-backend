@@ -24,7 +24,7 @@ todo-app/
 │   └── errorMiddleware.js
 ├── .env                      # Environment variables
 ├── package.json              # Project dependencies and scripts
-├── index.js                 # Main entry point
+├── app.js                 # Main entry point
 └── README.md                 # Project documentation
 ```
 
