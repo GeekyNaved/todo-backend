@@ -53,3 +53,7 @@ connectDB().then(() => {
     console.log(`Server running on port ${PORT}`);
   });
 }); 
+
+
+// Export the app for Vercel
+module.exports = app;
